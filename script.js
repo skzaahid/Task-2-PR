@@ -123,6 +123,7 @@ const participants = [
     { name: "Md. Ridhai kounine", roll: "24R21A66G9", year: "Second", branch: "CSM -C", github: "", linkedin: "" },
     { name: "GUGULOTH ADITHYA JADHAV", roll: "24R21A6619", year: "Second", branch: "CSM-A", github: "", linkedin: "" },
     { name: "Aleti Vaishnavi Reddy", roll: "24R21A05GU", year: "Second", branch: "CSE-F", github: "", linkedin: "" }
+    { name: "Shaik Zaahid", roll: "24R21A05L7", year: "Second", branch: "CSE-G", github: "skzaahid", linkedin: "https://www.linkedin.com/in/zaahid-shaik-861074324/" }
 ];
 
 // ==========================================
